@@ -3,8 +3,8 @@ It is a simple game made with JavaFx. Your objective is to bounce ball as many t
 ![Gameplay gif](Images/gameplay.gif)
 It includes following things:
 - GUI (JavaFx)
-  Simple GUI that informs about controls and scores.
-  ![Image of main menu](Images/mainMenu.png)
+  Simple GUI that informs about controls and scores._
+  ![Image of main menu](Images/mainMenu.png)_
   ![Image of scores](Images/scores.png)
 - Task synchronization
   There is a need to execute task in specific order:
